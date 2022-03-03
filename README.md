@@ -1,2 +1,2 @@
-# Bussinesapaaja.atlassian.net
-bussinesapaaja
+# Businessapaaja.atlassian.net
+Businessapaaja
